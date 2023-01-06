@@ -50,7 +50,7 @@ plot(t,a)
 ```matlab
 sound(a,f*2) % Donald Duck (audio compressé) 
 
-sound(a,f*0.5) %Terminator audio dilaté
+sound(a,f*0.5) %Terminator (audio dilaté)
 ```
 ####  **4- Tracez le signal en fonction des indices du vecteur x, puis essayez de repérer les indices de début et de fin de la phrase « Rien ne sert de ».**
  
