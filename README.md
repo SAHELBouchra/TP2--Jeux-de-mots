@@ -9,12 +9,6 @@
 2. [ Jeux de mots.](#part1)
 3. [ Synthèse et analyse spectrale d’une gamme de musique. ](#part2)
 
-  3.a. [ Synthèse d’une gamme de musique. ](#part2-1)
-
-  3.b. [ Spectre de la gamme de musique. ](#part2-2)
-
-  3.c. [ Approximation du spectre d’un signal sinusoïdal à temps continu par      FFT. ](#part2-3)
-
 <a name="objectif"></a>
 ### **1. Objectifs:**
 
