@@ -44,7 +44,8 @@ ts=1/f
 t=(0:N-1)*ts;
 plot(t,a)
 ```
-<img width="797" alt="tp2 1" src="https://user-images.githubusercontent.com/93081417/211015126-3c67c6fb-d891-408c-89e7-b35c679b23b8.png">
+<img width="812" alt="signal" src="https://user-images.githubusercontent.com/93081417/211207739-f6f46b24-1c25-48d8-90d0-be893d804c25.png">
+
 
 ####  **3- Cette commande permet d’écouter la phrase à sa fréquence d’échantillonnage d’enregistrement. Ecoutez la phrase en modifiant la fréquence d’échantillonnage à double ou deux fois plus petite pour vous faire parler comme « Terminator » ou « Donald Duck ». En effet, modifier la fréquence d’échantillonnage revient à appliquer un changement d’échelle y(t) = x(at) en fonction de la valeur du facteur d’échelle, cela revient à opérer une compression ou une dilatation du spectre initial d’où la version plus grave ou plus aigüe du signal écouté.**
 ```matlab
@@ -54,8 +55,16 @@ sound(a,f*0.5) %Terminator (audio dilaté)
 ```
 ####  **4- Tracez le signal en fonction des indices du vecteur x, puis essayez de repérer les indices de début et de fin de la phrase « Rien ne sert de ».**
  
+ ```matlab
+ rien_ne_sert_de = a(5055:100000);
+plot(rien_ne_sert_de);
+title('Rien ne sert de');
+ ```
  
- 
+ <img width="785" alt="rien" src="https://user-images.githubusercontent.com/93081417/211208250-f6194123-283c-41ae-92ff-b4b442c1a5f6.png">
+
+
+ ####  **5- Pour segmenter le premier mot, il faut par exemple créer un vecteur « riennesertde » contenant les n premières valeurs du signal enregistré x qui correspondent à ce morceau. Créez ce vecteur, puis écoutez le mot segmenté.**
  
  
  
