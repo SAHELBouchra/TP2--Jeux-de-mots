@@ -66,6 +66,10 @@ title('Rien ne sert de');
 
  ####  **5- Pour segmenter le premier mot, il faut par exemple créer un vecteur « riennesertde » contenant les n premières valeurs du signal enregistré x qui correspondent à ce morceau. Créez ce vecteur, puis écoutez le mot segmenté.**
  
+ ```matlab
+ riennesertde = a(5055:100000);
+sound(riennesertde,f)
+```
  
  
 
