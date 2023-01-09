@@ -63,7 +63,7 @@ plot(rien_ne_sert_de);
 title('Rien ne sert de');
  ```
  
- <img width="785" alt="rien" src="https://user-images.githubusercontent.com/93081417/211208250-f6194123-283c-41ae-92ff-b4b442c1a5f6.png">
+ ![WhatsApp Image 2023-01-08 at 6 47 18 PM](https://user-images.githubusercontent.com/93081417/211390659-2d9b4218-20e8-40ea-b175-0cb22bba235d.jpeg)
 
 
  ####  **5- Pour segmenter le premier mot, il faut par exemple créer un vecteur « riennesertde » contenant les n premières valeurs du signal enregistré x qui correspondent à ce morceau. Créez ce vecteur, puis écoutez le mot segmenté.**
@@ -72,8 +72,7 @@ title('Rien ne sert de');
  riennesertde = a(5055:100000);
 sound(riennesertde,f)
 ```
- 
- ![WhatsApp Image 2023-01-08 at 6 47 18 PM](https://user-images.githubusercontent.com/93081417/211390659-2d9b4218-20e8-40ea-b175-0cb22bba235d.jpeg)
+
 
  ####  **6- Segmentez cette fois-ci toute la phrase en créant les variables suivantes :riennesertde, courir, ilfaut, partirapoint.**
 
