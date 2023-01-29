@@ -327,7 +327,7 @@ title('spectre avec une échelle en décibels');
 $~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~$ [ (Revenir au sommaire) ](#retour)
 ***
 
-## Réalisé par : SAHEL Bouchra
+## SAHEL Bouchra
 ## Filiére : Robotique et Cobotique .
 ## Encadré par : Pr. Ammour Alae .
 
