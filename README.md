@@ -324,11 +324,6 @@ title('spectre avec une échelle en décibels');
 
 <img width="833" alt="Capture d’écran 2023-01-09 212034" src="https://user-images.githubusercontent.com/93081417/211400820-241f5a1f-daf0-46fc-b4e8-a6f4bf9a183f.png">
 
-$~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~$ [ (Revenir au sommaire) ](#retour)
-***
 
-## SAHEL Bouchra
-## Filiére : Robotique et Cobotique .
-## Encadré par : Pr. Ammour Alae .
 
 
